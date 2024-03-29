@@ -6,6 +6,10 @@ This project was initiated during the [36th NA-MIC Project Week](https://project
 
 ## Installation
 
+## Requirements
+You must install PyTorch before. The easiest way is to use the "PyTorch" module available in the "Extensions manager". 
+
+
 ### Option 1
 Clone this repository:
 
