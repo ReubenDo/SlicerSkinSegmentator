@@ -1,4 +1,4 @@
-# Skin surface extraction
+# Skin surface Segmentation
 
 This repository contains the code for a Slicer module that can be used to automatically extract the skin surface in various MR sequences (T1, post-contrast T1, T2, FLAIR).
 
